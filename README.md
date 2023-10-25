@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @groot737
-- Creator of [2008map.wiki🇬🇪](https://www.2008map.wiki/)
+- I'm from Georgia🇬🇪❤️
+- Creator of [2008map.wiki](https://www.2008map.wiki/)
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on interesting projects
