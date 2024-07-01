@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @groot737
 - I'm from Georgia🇬🇪❤️
-- Creator of [2008map.wiki](2008-map.netlify.app/)
+- Creator of [https://2008-map.netlify.app/](2008-map.netlify.app/)
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on interesting projects
